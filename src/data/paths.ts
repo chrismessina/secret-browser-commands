@@ -35,7 +35,8 @@ export const browserCommands: BrowserCommand[] = [
     id: "app-settings",
     name: "App Settings",
     path: "app-settings",
-    description: "Provides a settings page for managing Chrome apps and extensions, including advanced configuration options.",
+    description:
+      "Provides a settings page for managing Chrome apps and extensions, including advanced configuration options.",
   },
 
   {
